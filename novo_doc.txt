@@ -2,3 +2,4 @@ ls -> lista arquivos
 cd -> move entre diretório
 cat -> exibe conteúdo do arquivo
 rm -> remove conteúdo ou diretório
+rm -rf -> remove
