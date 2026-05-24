@@ -5,4 +5,8 @@ rm -> remove conteúdo ou diretório
 rm -rf -> remove
 nova 
 
-linha 
+linha
+
+TESTANDO GIT DIFF 
+
+C
