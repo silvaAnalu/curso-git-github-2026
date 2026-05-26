@@ -1,1 +1,1 @@
-arquivo 2, criado na branch secundaria 01
+arquivo 2, criado na branch secundaria 01 ALTERAÇÃO MESMA LINHA
